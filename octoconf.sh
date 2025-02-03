@@ -1,6 +1,6 @@
 #Installing depedencies
 pacman -Syu --no-confirm
-pacman -S kitty neovim i3 zsh i3-gaps i3lock i3blocks yay discord ttf-font-awesome powerline-fonts dmenu zsh flameshot blueman bluetoothctl brightnessctl jq feh meson ninja keepassxc --no-confirm
+pacman -S kitty neovim i3 zsh i3-gaps i3lock i3blocks yay discord ttf-font-awesome powerline-fonts dmenu zsh flameshot blueman bluetoothctl brightnessctl jq feh meson ninja keepassxc rofi --no-confirm
 
 $TMP1 = tmp_install
 
