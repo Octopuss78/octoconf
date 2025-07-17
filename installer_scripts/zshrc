@@ -3,6 +3,7 @@
 OCTOCONF_PATH="$HOME/Downloads/octoconf"
 
 ##ALIASES
+alias fl ="$HOME/Documents/FuzzingLabs"
 alias reload="source ~/.zshrc"
 alias ginette="nvim ~/.zshrc"
 
