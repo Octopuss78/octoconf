@@ -1,9 +1,10 @@
 ##VARIABLES
 
 OCTOCONF_PATH="$HOME/Downloads/octoconf"
+PATH=$PATH:/opt/jadx/build/jadx/bin/:/home/octopus/.local/bin
 
 ##ALIASES
-alias fl ="$HOME/Documents/FuzzingLabs"
+alias fl="cd $HOME/Documents/FuzzingLabs"
 alias reload="source ~/.zshrc"
 alias ginette="nvim ~/.zshrc"
 
